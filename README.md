@@ -162,12 +162,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MominX1/MominX1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer"/>
